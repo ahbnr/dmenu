@@ -16,3 +16,4 @@ Used patches:
 Configuration changes:
 
 * border width of 4
+* center without supplying `-c` option
