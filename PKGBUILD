@@ -1,5 +1,5 @@
 pkgname=dmenu-custom
-pkgver=r1097.70f3fec
+pkgver=r573.b595e02
 pkgrel=1
 pkgdesc="Generic menu for X. With borders and centering patch."
 arch=('x86_64')
