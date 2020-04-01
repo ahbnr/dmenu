@@ -4,3 +4,4 @@ stest
 *.orig
 src
 pkg
+*.tar.xz

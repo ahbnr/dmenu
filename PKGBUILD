@@ -6,6 +6,7 @@ arch=('x86_64')
 url="https://tools.suckless.org/dmenu/"
 license=('MIT')
 provides=('dmenu')
+conflicts=('dmenu')
 depends=('sh' 'libxinerama' 'libxft' 'freetype2')
 
 prepare() {
